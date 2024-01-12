@@ -1,0 +1,25 @@
+body {
+    background-color: #222;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+h1 {
+    color: white;
+}
+.favorite-colors {
+    width: 100%;
+}
+div {
+    height: 5rem;
+    width: 25%;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    flex-wrap: wrap;
+
+}
+.color {
+    border-radius: 5px;
+    margin: 2rem;
+}
