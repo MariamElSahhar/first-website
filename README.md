@@ -1,5 +1,5 @@
 # Throwback 🌀
-Recreating the first-ever page I wrote in my life over the summer between 7 and 8th grade. As true to memory as I can.
+In honor of its 10-year anniversary, recreating the first-ever webpage I wrote in my life over the summer between 7 and 8th grade. As true to memory as I can.
 
 ## Tools 🛠️
 - 🌸 Plain HTML and CSS 
