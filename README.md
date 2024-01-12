@@ -4,7 +4,7 @@ Recreating the first-ever page I wrote in my life over the summer between 7 and 
 ## Tools 🛠️
 - 🌸 Plain HTML and CSS 
 - ☀️ Freedom of middle school summer
-- 🐸 My dad's generous 25$ sponsorship of my web development courses on (teamtreehouse.com)[teamtreehouse.com]
+- 🐸 My dad's generous 25$ sponsorship of my web development courses on [teamtreehouse.com](teamtreehouse.com)
 - ✈️ Dream of becoming a freelance web developer to make enough money to travel the world
 
 ## Fun Facts 👾
