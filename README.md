@@ -9,4 +9,4 @@ Recreating the first-ever page I wrote in my life over summer between 7 and 8th 
 
 ## Fun Facts
 Back in the day, I didn't know anything about git so I memorized the website (not that there's much to it) and would recreate it in real-time (5 minutes) to show my friends.
-I hope Treehouse.com added a git module in their course.
+I hope Treehouse.com added a git module to their course.
